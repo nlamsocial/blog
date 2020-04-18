@@ -1,12 +1,12 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://nlamsocial.github.io/blog/"
+baseURL = "https://example.com/"
 title = "LAM NGUYEN"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-copyright = "[LAM EDWARD](https://fb.com/nlamsocial"
+copyright = "[LAM EDWARD](https://facebook.com/nlamsocial)"
 
 # Name of theme
 theme = "meme"
