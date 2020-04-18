@@ -1,12 +1,12 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
-title = "Hugo Theme MemE"
+baseURL = "https://nlamsocial.github.io/blog/"
+title = "LAM NGUYEN"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+copyright = "[LAM EDWARD](https://fb.com/nlamsocial"
 
 # Name of theme
 theme = "meme"
@@ -36,7 +36,7 @@ enableGitInfo = false
 # Enable generation of `robots.txt` file?
 enableRobotsTXT = true
 
-# Number of items per page in paginated 
+# Number of items per page in paginated
 # lists (valid for the `posts` homepage
 # layout in MemE)
 paginate = 5
