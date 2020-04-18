@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-#baseURL = "https://nlamsocial.github.io/blog/"
+baseURL = "https://nlamsocial.github.io/blog/"
 title = "LAM NGUYEN"
 languageCode = "en"
 hasCJKLanguage = false
